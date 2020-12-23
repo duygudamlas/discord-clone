@@ -8,7 +8,7 @@ var firebaseConfig = {
   apiKey: "AIzaSyCmjQ-QuDiTXe3YBU7zJQl0g5q-_mPt9UY",
   authDomain: "discrod.netlify.app",
   databaseURL: "discrod.netlify.app",
-  projectId: "",
+  projectId: "duygudamlas/discord-clone",
   storageBucket: "discrod.netlify.app",
   messagingSenderId: "265446087212",
   appId: "98c73a2e-bc83-4b4e-a5c5-f22f0eb5a09e",
