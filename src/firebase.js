@@ -11,7 +11,7 @@ var firebaseConfig = {
   projectId: "duygudamlas/discord-clone",
   storageBucket: "disrod.netlify.app",
   messagingSenderId: "265446087212",
-  appId: "1:e6e3c9f1-e6d6-46c9-8219-4aec55f8b868",
+  appId: "1:265446087212:web:392811aa65680282680f89",
   measurementId: "G-XQPC1S7QLC"
 };
 // Initialize Firebase
