@@ -6,12 +6,12 @@ import "firebase/analytics";
 
 var firebaseConfig = {
   apiKey: "AIzaSyCmjQ-QuDiTXe3YBU7zJQl0g5q-_mPt9UY",
-  authDomain: "discord-clone-66d9a.firebaseapp.com",
+  authDomain: "discrod.netlify.app",
   databaseURL: "https://discord-clone-66d9a.firebaseio.com",
   projectId: "discord-clone-66d9a",
-  storageBucket: "discord-clone-66d9a.appspot.com",
+  storageBucket: "discrod.netlify.app",
   messagingSenderId: "265446087212",
-  appId: "1:265446087212:web:392811aa65680282680f89",
+  appId: "98c73a2e-bc83-4b4e-a5c5-f22f0eb5a09e",
   measurementId: "G-XQPC1S7QLC"
 };
 // Initialize Firebase
